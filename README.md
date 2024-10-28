@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=250&section=header&text=Profile.&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=250&section=header&text=Übung macht den Meister&fontSize=50" />
 
 <h3>Language</h3>
 
