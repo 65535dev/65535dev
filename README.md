@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=250&section=header&text=Übung macht den Meister&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Übung%20macht%20den%20Meister.&section=header&reversal=false&textBg=false&desc=연습이%20완벽을%20만든다.&descSize=25&descAlign=72&descAlignY=60&fontAlign=50&animation=fadeIn&fontSize=50">
 
 <h3>Language</h3>
 
